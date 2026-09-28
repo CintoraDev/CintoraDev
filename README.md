@@ -2,7 +2,7 @@
 
 # Carlos Cintora
 
-**Estudiante de Ingeniería Informática · CUCEI · Backend & Fullstack**
+**Estudiante de Ingeniería Informática · CUCEI**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
@@ -20,18 +20,7 @@
 
 ---
 
-## Sobre mí
 
-Estudiante de 5to semestre en CUCEI enfocado en desarrollo backend y fullstack. Me interesa construir aplicaciones que resuelvan problemas reales — desde sistemas POS hasta proyectos web. Actualmente aprendiendo y empezando a subir proyectos que hago a GitHub.
-
-- 🎓 Ingeniería Informática · Universidad de Guadalajara (CUCEI)
-- 💻 Enfoque: Desarrollo backend y fullstack con frameworks web
-- 🛢️ Bases de datos: MySQL
-- 🐧 Trabajo principalmente en Linux
-- 📍 Guadalajara, México
-- 🚀 Buscando mis primeras oportunidades profesionales
-
----
 
 ## Proyectos
 
